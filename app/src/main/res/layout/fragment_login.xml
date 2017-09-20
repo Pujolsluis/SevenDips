@@ -15,12 +15,12 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="0dp"
         android:layout_marginRight="0dp"
+        android:layout_marginTop="32dp"
         android:ems="10"
-        android:hint="Email"
+        android:hint="@string/login_email_hintText"
         android:inputType="textEmailAddress"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginTop="32dp"
         app:layout_constraintTop_toBottomOf="@+id/login_logo_imageView" />
 
     <EditText
@@ -31,7 +31,7 @@
         android:layout_marginRight="0dp"
         android:layout_marginTop="16dp"
         android:ems="10"
-        android:hint="Password"
+        android:hint="@string/login_password_textHint"
         android:inputType="textEmailAddress"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
