@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SevenDips</string>
+    <string name="title_activity_authentication">AuthenticationActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
